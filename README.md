@@ -1,3 +1,3 @@
-# Purpose
+# techkenyans.github.io
 
-To enable: techkenyans.org/global-toolkit
+Redirects to TechKenyans' GitHub page.
